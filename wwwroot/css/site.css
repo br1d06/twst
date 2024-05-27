@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.team-name {
+    color: black;
+
+     
+}
+
+.team-logo{
+    height: 50px;
+    width: 50px;
+}
+
+.nav-bar{
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+}
+
+.team-container{
+    
+    margin-left:auto;
+    margin-right:auto;
+    width: 80%;
+    height: 255px;
+    display:flex;
+}
+
+.team-card{
+    margin-right: 40px;
+}
+
